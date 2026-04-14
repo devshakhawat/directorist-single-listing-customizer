@@ -1,7 +1,7 @@
 <?php // phpcs:ignore
 
 /**
- * Plugin Name: Directorist Single Listing Customizer
+ * Plugin Name: Directorists Single Listing Customizer
  * Description: this plugin will enhance listing page.
  * Version: 1.0.0
  * Author: Shakhawat
