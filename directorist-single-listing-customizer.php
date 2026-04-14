@@ -7,7 +7,7 @@
  * Author: Shakhawat
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: product-reviews
+ * Text Domain: directory-listing
  * Domain Path: /languages
  *
  * @package   Directory_Listing
